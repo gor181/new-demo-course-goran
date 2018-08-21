@@ -2,7 +2,8 @@
 title: Insert title here
 key: d8db14ec2ae0cdbbbfac1bd055a998d3
 video_link:
-  mp3: https://s3.amazonaws.com/videos.datacamp.com/mp3/7778_single_cell_RNA_seq_workflows_in_r/v1/7778_ch1_1.mp3
+  hls: https://s3.amazonaws.com/sandbox.datacamp.com/transcoded/3094_lattice/v3/hls-ch1_2.master.m3u8
+  mp4: https://s3.amazonaws.com/sandbox.datacamp.com/transcoded_mp4/3094_lattice/v3/ch1_2.mp4
 
 ---
 ## Title Slide
