@@ -23,7 +23,7 @@ title: Instructor
 
 
 ---
-## full slide
+## full slidea
 
 ```yaml
 type: "FullSlide"
